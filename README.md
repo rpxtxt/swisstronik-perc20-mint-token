@@ -47,10 +47,7 @@ To compile the smart contracts, run:
 ```sh
 npx hardhat compile
 
-```
 npx hardhat test
-```
 
-```
 npx hardhat run scripts/deploy.js --network localhost
 ```
