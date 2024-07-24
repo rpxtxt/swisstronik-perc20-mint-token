@@ -22,7 +22,7 @@ Before getting started, ensure you have the following software installed:
 1. Clone this repository:
 
     ```sh
-    git clone https://github.com/username/perc20-smart-contract.git
+    git clone https://github.com/rpxtxt/perc20-smart-contract.git
     cd perc20-smart-contract
     ```
 
